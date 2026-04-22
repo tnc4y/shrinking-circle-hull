@@ -22,6 +22,15 @@
 4. **Köşe Yakalama:** Daire daraldıkça, sadece gerçek "Convex Hull" köşesi olduğu önceden belirlenen noktaları "yakalar".
 5. **Sınır Oluşturma:** Yakalanan tüm noktalar kutupsal açılarına göre sıralanarak temiz ve minimal bir dış çeper çizgisi oluşturulur.
 
+--
+
+## 📸 Animation / Animasyon
+
+![Minimal Hull Animation](assets/minimal_hull.gif)
+
+**[EN]** *The blue circle represents the shrinking boundary, and red dots represent the captured vertices.*
+**[TR]** *Mavi daire daralan sınırı, kırmızı noktalar ise yakalanan köşe noktalarını temsil eder.*
+
 ---
 
 ## 📊 Technical Analysis / Teknik Analiz
@@ -55,14 +64,7 @@
 
 ---
 
-## 📸 Animation / Animasyon
 
-![Minimal Hull Animation](assets/minimal_hull.gif)
-
-**[EN]** *The blue circle represents the shrinking boundary, and red dots represent the captured vertices.*
-**[TR]** *Mavi daire daralan sınırı, kırmızı noktalar ise yakalanan köşe noktalarını temsil eder.*
-
----
 
 ## 💻 Usage / Kullanım
 
