@@ -83,6 +83,26 @@ python src/animation_minimal.py
 python src/minimal_hull_algorithm.py
 ```
 
+## ✅ Test Results / Test Sonuçları
+
+### [EN] Unit Tests
+All 25 test cases passed successfully, covering edge cases, geometric properties, and numerical stability.
+
+### [TR] Birim Testler
+Kenar durumları, geometrik özellikler ve sayısal kararlılığı kapsayan 25 test senaryosunun tamamı başarıyla tamamlandı.
+
+```text
+============================ test session starts =============================
+platform linux -- Python 3.14.4, pytest-9.0.3, pluggy-1.6.0
+rootdir: /home/tnc4y/projects/shrinking-circle-hull
+plugins: anyio-4.13.0
+collected 25 items                                                           
+
+tests/test_minimal_hull_algorithm.py .........................         [100%]
+
+============================= 25 passed in 0.11s =============================
+```
+
 ---
 
 ## 📂 Project Structure / Proje Yapısı
